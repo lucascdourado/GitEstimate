@@ -95,7 +95,7 @@ const elementRef = useRef<HTMLDivElement | null>(null);
              
                 {/* 🔴 SUGGESTION -> Due to my vercel free tire end of 1000 images  unoptimized= true 👇   */}
 
-               <Image src={`https://ghchart.rshah.org/${username}`} alt="Contribution Graph" fill={true} loading="eager" priority  unoptimized={true}/>
+               <Image src={`https://ghchart.rshah.org/${username}`} alt="Contribution Graph" fill={true} loading="eager" priority />
           
           </div>
           <span className="w-full text-center mt-2 text-xs">Get yours at gitestimate.vercel.app</span>
