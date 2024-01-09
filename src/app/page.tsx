@@ -7,7 +7,7 @@ export const siteConfig = {
   name: "GitEstimate",
   description: "GitEstimate - Github Estimate worth genereator ",
   ogImage: "https://mdTaquiImam.vercel.app/og-image.png",
-  url: "git-estimate-dourado.vercel.app",
+  url: "https://git-estimate-dourado.vercel.app",
 }
 
 
