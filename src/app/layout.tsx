@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 // SITE CONFUGRATION 
 export const metadata: Metadata = {
-  metadataBase: new URL("git-estimate-dourado.vercel.app"),
+  metadataBase: new URL("https://git-estimate-dourado.vercel.app"),
   title: {
     default: siteConfig.name,
     template: `%s - Software Engineer`,
